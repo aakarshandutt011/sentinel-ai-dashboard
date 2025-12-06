@@ -9,7 +9,7 @@
 ---
 
 ## 📸 Interface Preview
-<img width="1449" height="703" alt="Screenshot 2025-12-06 at 7 39 11 AM" src="https://github.com/user-attachments/assets/1486401a-844d-46a2-9a32-41473d29428a \n" />
+<img width="1449" height="703" alt="Screenshot 2025-12-06 at 7 39 11 AM" src="https://github.com/user-attachments/assets/1486401a-844d-46a2-9a32-41473d29428a "\n />
 <img width="1460" height="705" alt="Screenshot 2025-12-06 at 7 38 50 AM" src="https://github.com/user-attachments/assets/111bfa51-ab65-42ba-8a06-b085eba15065" />
 
 
